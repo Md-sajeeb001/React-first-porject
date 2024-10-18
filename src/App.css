@@ -6,6 +6,7 @@
 }
 :root{
   --btn-color: #1E3E62;
+  --secondary-btn: #FF6500;
 }
 body{
     font-family: "Open Sans", sans-serif;
@@ -14,4 +15,8 @@ body{
 .style-btn{
   background-color: var(--btn-color);
   color: white;
+}
+.show-more{
+  background-color: var(--secondary-btn);
+  color: var(--btn-color);
 }

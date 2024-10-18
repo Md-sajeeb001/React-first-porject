@@ -57,7 +57,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn bg-none style-btn">Sing Up</a>
+          <a className="btn bg-none style-btn hover:text-black">Sing Up</a>
         </div>
       </div>
     </nav>
