@@ -1,0 +1,17 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+:root{
+  --btn-color: #1E3E62;
+}
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+.style-btn{
+  background-color: var(--btn-color);
+  color: white;
+}
